@@ -31,7 +31,6 @@ div {
 
 .top-bar > .content {
 	height: 4.375rem;
-	margin: 0 auto;
 }
 
 .top-bar .links {
@@ -91,6 +90,24 @@ div {
 	font-size: 1.563rem;
 }
 
+.big-button {
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px; 
+	padding: 16px 26px;
+	line-height: 1.33;
+	width: 9.688rem;
+	background-color: #F15A29;
+	font-size: 1.125rem;
+	color: #FFF;
+	display: block;
+	margin: 0 auto;
+	margin-top: 1.8rem;
+}
 
+.big-button:hover {
+    cursor: pointer;
+    background-color: #333333;
+}
 
 
