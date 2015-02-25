@@ -128,13 +128,8 @@ div {
 }
 
 .flex-item {
-	background: tomato;
 	padding: 5px;
-	width: 200px;
-	height: 550px;
 	margin-top: 10px;
-	  
-	line-height: 150px;
 	color: white;
 	font-weight: bold;
 	font-size: 3em;
