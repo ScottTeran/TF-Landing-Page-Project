@@ -8,7 +8,6 @@ body {
 
 div {
 	display: block;
-	/* border: 1px solid Chocolate; */
 }
 
 
@@ -112,7 +111,7 @@ div {
 }
 
 
-/***** BUTTONS & IMGS *****/
+/* BUTTONS & IMGS */
 
 
 .cases .content {
@@ -149,8 +148,6 @@ div {
 
   	align-items: center;
   	justify-content: center;
-
-  	
 }
 
 .flex-item {
@@ -162,7 +159,7 @@ div {
 }
 
 
-/****** FOOTER *****/
+/* FOOTER */
 
 
 .social {
@@ -205,6 +202,3 @@ div {
 	font-weight: 300;
 	color: #838994;
 }
-
-
-
